@@ -1,0 +1,17 @@
+export default [
+    { url: '/images/bat.png', width: 283, height: 300 },
+    { url: '/images/boat.png', width: 300, height: 298 },
+    { url: '/images/eagle.png', width: 300, height: 228 },
+    { url: '/images/skull.png', width: 261, height: 300 },
+    { url: '/images/sun.png', width: 300, height: 300 },
+    { url: '/images/tiger.png', width: 300, height: 272 },
+    { url: '/images/whale.png', width: 289, height: 300 },
+    { url: '/images/face.png', width: 296, height: 300 },
+    { url: '/images/snake.png', width: 229, height: 300 },
+    { url: '/images/web.png', width: 298, height: 300 },
+    { url: '/images/elephant.png', width: 300, height: 228 },
+    { url: '/images/key.png', width: 300, height: 114 },
+    { url: '/images/diamond.png', width: 300, height: 250 },
+    { url: '/images/envelope.png', width: 283, height: 300 },
+    { url: '/images/cherub.png', width: 300, height: 268 },
+]
